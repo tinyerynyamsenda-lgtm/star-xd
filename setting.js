@@ -1,4 +1,4 @@
-//=====💫 sᴛᴀʀ xᴅ🔥====
+//=====💫 Jimmy26 Bot 🔥====
 
 module.exports = {
   BOT_NAME: 'Jimmy26 Bot', // ur bot name
